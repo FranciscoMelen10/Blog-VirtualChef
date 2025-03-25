@@ -10,7 +10,7 @@ banner:
 
 # feature
 feature:
-  title: Something You Need To Know
+  title: Algo que necesitas saber
   features:
     - name: "Comida Inteligente:"
       icon: "/images/code.svg"
