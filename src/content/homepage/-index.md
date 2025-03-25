@@ -1,93 +1,55 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
-  image: /images/banner-art.png
+  title: Come como un experto en salud
+  content: Aprende a preparar comidas saludables con recetas diseñadas por nutricionistas.
+  image: /images/cocina-6.svg
   button:
     enable: true
-    label: "Contact Us"
+    label: "Contáctanos"
     link: "/contact"
 
 # feature
 feature:
   title: Something You Need To Know
   features:
-    - name: "Clean Code"
+    - name: "Comida Inteligente:"
       icon: "/images/code.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Object Oriented"
+      content: "Descubre recetas con el balance perfecto entre sabor y nutrición."
+    - name: "Guías de Nutrición"
       icon: "/images/oop.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "24h Service"
+      content: "Artículos basados en ciencia para entender mejor tu alimentación"
+    - name: "Comunidad Activa: "
       icon: "/images/user-clock.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Value for Money"
-      icon: "/images/love.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Faster Response"
-      icon: "/images/speedometer.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Cloud Support"
-      icon: "/images/cloud.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content: "Únete a nuestra comunidad de amantes de la comida saludable"
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "El impacto de la alimentación saludable en tu vida"
+    content: "Descubre cómo pequeños cambios en tu dieta pueden mejorar tu energía, rendimiento y bienestar general. Nuestros estudios muestran que adoptar una alimentación equilibrada puede reducir el riesgo de enfermedades en un 30%"
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/cocina-1.svg"
+      - "/images/cocina-2.svg"
     button:
       enable: true
-      label: Check it out
+      label: Contáctanos
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Tendencias en alimentación saludable"
+    content: "Cada vez más personas adoptan dietas basadas en plantas, alimentación funcional y métodos de cocina saludable como el air-frying. En Virtual Chef te mantenemos actualizado sobre las últimas innovaciones en comida saludable."
     images:
-      - "/images/service-slide-1.png"
+      - "/images/cocina-3.svg"
     button:
       enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-# workflow
-workflow:
-  title: "Experience the best workflow with us"
-  image: "/images/banner.png"
-  description: ""
+      label: Blog
+      link: /blog
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
-  image: "/images/cta.png"
+  title: ¿Listo para transformar tu alimentación?
+  content: Comienza hoy con nuestras recetas y consejos exclusivos. Únete a nuestra comunidad y accede a contenido premium.
+  image: "/images/cocina-4.svg"
   button:
     enable: true
-    label: "Contact Us"
-    link: "/contact"
+    label: "Planes de premium"
+    link: "/precios"
 ---

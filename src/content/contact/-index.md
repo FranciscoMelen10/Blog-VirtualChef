@@ -1,12 +1,12 @@
 ---
-title: "Contact Us"
-description: "meta description"
+title: "Contáctanos"
+description: ""
 draft: false
 info:
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  title: Hablemos sobre tu alimentación saludable"
+  description: "¿Tienes preguntas sobre nuestras recetas, meal plans o cursos? Escríbenos y estaremos encantados de ayudarte a mejorar tu alimentación."
   contacts:
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "Télefono: +505 1900 2020"
+    - "Correo: contacto@virtualchef.com"
+    - "Dirección: Nicaragua, Centro de Innovación Gastronómica"
 ---
